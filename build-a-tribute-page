@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+<header>
+
+  <link rel="stylesheet" href="styles.css">
+  <header>
+<html lang=en>
+  <body>
+    <main id="main">
+      <section>
+      <h1 id="title">Dr.Tony Tony Chopper</h1>
+      <p id="description">El doctor mas tierno del mundo</p>
+      <figure id="img-div">
+        <img id="image" src="https://c4.wallpaperflare.com/wallpaper/109/246/402/anime-doctor-one-piece-pirates-wallpaper-thumb.jpg"
+        alt="Character of the anime called One Piece, his name is Tony Tony Chopper">
+        <figcaption id="img-caption">Doctor Tony Tony Chopper un dia de primavera junto a su pequeño amigo </figcaption>
+      </figure>
+      </section>
+      <section id="tribute-info">
+        <h3 ="headline">Aqui estan los acontecimientos más importantes de Chopper como doctor hasta la fecha:</h3>
+        <ol>
+  <li>
+    <strong>Capítulo 133 - "Tony Tony Chopper"</strong> - Chopper es presentado como un reno con la habilidad de hablar y entender el lenguaje humano gracias a la Hito Hito no Mi, Modelo: Humano. Él actúa como médico en la isla de Drum, donde ayuda a los habitantes enfermos y heridos.
+  </li>
+
+  <li>
+    <strong>Capítulo 134 - "Los hombres-bestia del reino de Drum"</strong> - Chopper se enfrenta al tirano Wapol, quien regresa a Drum Island con la intención de retomar el trono. Chopper y los habitantes de Drum Island luchan contra él para proteger su hogar.
+  </li>
+
+  <li>
+    <strong>Capítulo 142 - "La tragedia de una enfermedad incurable"</strong> - Durante su batalla con Wapol, Chopper descubre el verdadero poder de su fruta del diablo, la Hito Hito no Mi, Modelo: Humano, y desbloquea nuevas transformaciones.
+  </li>
+
+  <li>
+    <strong>Capítulo 171 - "La tormenta se acerca"</strong> - Chopper utiliza sus habilidades médicas para tratar a los heridos en la batalla contra Baroque Works y ayuda a sanar a los ciudadanos afectados por la plaga en Alabasta.
+  </li>
+
+  <li>
+    <strong>Capítulo 391 - "La promesa"</strong> - Chopper se une a la misión para rescatar a Nico Robin en Enies Lobby. Utiliza sus habilidades médicas para ayudar a sus amigos heridos durante la batalla contra el Gobierno Mundial y CP9.
+  </li>
+
+  <li>
+    <strong>Capítulo 550 - "Marineford"</strong> - Durante la Guerra de Marineford, Chopper utiliza sus habilidades médicas para tratar a los heridos en ambos lados del conflicto y para mantener a sus aliados en plena forma durante la intensa batalla.
+  </li>
+
+  <li>
+    <strong>Capítulo 654 - "Punk Hazard"</strong> - Chopper continúa usando sus habilidades médicas para ayudar a sus amigos y a los habitantes afectados por los eventos en la isla de Punk Hazard, enfrentándose a peligrosos enemigos y curando a los heridos.
+  </li>
+
+  <li>
+    <strong>Capítulo 700 - "El levantamiento de Dressrosa"</strong> - Chopper utiliza sus habilidades médicas para ayudar durante los eventos en Dressrosa, curando a los heridos y enfrentándose a los enemigos en la batalla.
+  </li>
+</ol>
+<blackquote cite="https://freakuotes.com/coleccion/2128/mis-frases-favoritas-de-tony-tony-chopper-one-piece">
+  <p>
+     "El dolor es solo una señal para proteger el cuerpo, así que no sentirlo no te hace más fuerte que nadie. "
+  </p>
+  <cite>
+    -- Tony Tony Chopper enfurecido en Thriller Bark --
+    </cite>
+  
+      </section>
+
+       <footer>
+      <h3> Si te gustó este lindo reno, lee más sobre él en su propia
+      <a id="tribute-link" target="_blank" href="https://onepiece.fandom.com/es/wiki/Tony_Tony_Chopper">Wikipedia </a>!
+      </h3>
+    </footer>
+    </main>
+
+   
+  </body>
+</html>
+
+
